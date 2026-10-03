@@ -44,3 +44,11 @@ for (let i = 1; i <= 4; i++) {
 }
 
 console.log(suma)
+
+console.log("---------")
+
+let contador = 0
+while (contador < 10) {
+    console.log(contador)
+    contador++
+}
